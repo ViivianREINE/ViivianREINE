@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="A_digital_illustration_features_a_personalized_ban.png.png" alt="banner" width="100%" />
+  <img src="A_digital_illustration_features_a_personalized_ban.png.png" alt="banner" width="555" />
 </p>
 
 ---
@@ -54,9 +54,9 @@
   <a href="https://github.com/ViivianREINE">
     <img src="https://img.shields.io/badge/GitHub-fff8f0?style=for-the-badge&logo=github&logoColor=181717&labelColor=d2b48c" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-fff8f0?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=d2b48c" />
-  </a>
+  <a href="https://www.linkedin.com/in/priyam-parashar-5b0b67273/">
+  <img src="https://img.shields.io/badge/LinkedIn-fff8f0?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=D2B48C" alt="LinkedIn Badge"/>
+</a>
 </p>
 
 ---
