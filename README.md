@@ -1,18 +1,30 @@
-<p align="center">
-  <img
-    src="./reine-header.png"
-    width="100%"
-    alt="Code, Conversations & Curious Little Obsession... Collecting Ideas Like You Collect Souvenirs..."
-  />
-</p>
+<div align="center">
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
+
+<img src="./reine-header.png" width="68%" alt="Code, Conversations & Curious Little Obsession... Collecting Ideas Like You Collect Souvenirs..."/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REINE-3B241C?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
+
+<br><br>
 
 # 𓂃 REINE
 
-### `AI / ML` &nbsp;·&nbsp; `Software Engineering` &nbsp;·&nbsp; `Research` &nbsp;·&nbsp; `Creative Technology`
+### `AI / ML` · `Software Engineering` · `Research` · `Creative Technology`
 
 <br>
 
@@ -21,7 +33,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/priyam-parashar-5b0b67273/">
-<img src="https://img.shields.io/badge/LINKEDIN-D8A7A0?style=for-the-badge&logo=linkedin&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/LINKEDIN-C98F8F?style=for-the-badge&logo=linkedin&logoColor=3B241C"/>
 </a>
 &nbsp;
 <a href="https://portfolio-priyam-ten.vercel.app/">
@@ -32,6 +44,10 @@
 <img src="https://img.shields.io/badge/X-E8D8C8?style=for-the-badge&logo=x&logoColor=3B241C"/>
 </a>
 
+<br><br>
+
+🎀 &nbsp; `code` · `conversations` · `curiosity` · `little obsessions` &nbsp; 🎀
+
 </div>
 
 <br>
@@ -40,7 +56,11 @@
 
 <div align="center">
 
-## ✦ a little about me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C98F8F&height=2&section=header"/>
+
+<br>
+
+## 🎀 A Little About Me 🎀
 
 </div>
 
@@ -48,18 +68,32 @@
 
 Hi, I'm **Priyam**.
 
-I'm a **Biotechnology undergraduate at RV College of Engineering**, exploring the space where **biology, artificial intelligence, software, research, and creativity** overlap.
+I'm an **Engineering undergraduate at RV College of Engineering, Bengaluru**, exploring the intersection of **artificial intelligence, machine learning, software engineering, research, biotechnology, and creativity**.
 
-I like taking a curious question and giving it somewhere to go —  
-sometimes that becomes a machine-learning model, sometimes a software system, sometimes a research idea, and sometimes just a page filled with thoughts.
+I like taking a tiny question seriously.
 
-I'm interested in building things that are not only functional, but **thoughtful, expressive, and worth remembering.**
+A *"what if?"* becomes an experiment.  
+An experiment becomes a "prototype"*.  
+A prototype becomes a system.  
+And sometimes, that system becomes something I become ridiculously attached to.
+
+I like technology with a little personality.
+
+And ideas with somewhere to go.
 
 <br>
 
 <div align="center">
 
-`curiosity` &nbsp;·&nbsp; `experimentation` &nbsp;·&nbsp; `building` &nbsp;·&nbsp; `learning`
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/curious-F8F1E7?style=flat-square&labelColor=3B241C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/creative-F3D9A5?style=flat-square&labelColor=3B241C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/always%20learning-C98F8F?style=flat-square&labelColor=3B241C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
 
 </div>
 
@@ -69,16 +103,63 @@ I'm interested in building things that are not only functional, but **thoughtful
 
 <div align="center">
 
-## 𓂃 what keeps me curious
+## 𓂃 things that make my brain light up
 
 <br>
 
-**Artificial Intelligence**  
-**Machine Learning**  
-**Software Engineering**  
-**AI × Biotechnology**  
-**Data & Research**  
-**Creative Technology**
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=ai" width="42"/>
+
+<br>
+
+**ARTIFICIAL**  
+**INTELLIGENCE**
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=python" width="42"/>
+
+<br>
+
+**MACHINE**  
+**LEARNING**
+
+</td>
+
+<td align="center" width="25%">
+
+🧬
+
+<br>
+
+**BIOTECHNOLOGY**  
+**& OMICS**
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=react" width="42"/>
+
+<br>
+
+**SOFTWARE**  
+**ENGINEERING**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`research` · `data` · `experimentation` · `creative technology`
 
 </div>
 
@@ -88,9 +169,15 @@ I'm interested in building things that are not only functional, but **thoughtful
 
 <div align="center">
 
-## ✧ selected work
+# 🎀 selected work
 
-### little experiments, serious questions, and things I wanted to build.
+### six projects · six rabbit holes · countless tabs open
+
+<br>
+
+<sub>
+the things currently living in my little corner of GitHub
+</sub>
 
 </div>
 
@@ -101,37 +188,65 @@ I'm interested in building things that are not only functional, but **thoughtful
 
 <td width="50%" valign="top">
 
-### 🧬 Bio-Tech Quiz Quest
+<div align="center">
 
-A full-stack educational **RPG game** built around biotechnology learning, where students explore a top-down pixel-art biotech campus and engage with academic content through an interactive game experience.
+🎀
+
+### Bio-Tech-Quiz-Quest
+
+</div>
+
+A full-stack educational **RPG game built around biotechnology learning**.
+
+Students explore a top-down pixel-art biotech campus and engage with academic content through an interactive game experience.
 
 <br>
 
-`TypeScript` &nbsp; `Education` &nbsp; `Biotechnology` &nbsp; `RPG`
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-C98F8F?style=flat-square&logo=typescript&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/Biotech-F3D9A5?style=flat-square&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/RPG-E8D8C8?style=flat-square&logoColor=3B241C"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/Bio-Tech-Quiz-Quest">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁ Cloud-Based Storage Device
+<div align="center">
 
-**CloudVault** — a Google Drive-style file storage API designed using **Java 17 and Spring Boot**, exploring backend architecture and cloud-based storage systems.
+☁️
+
+### Cloud-Based-Storage-Device
+
+</div>
+
+**CloudVault** — a Google Drive-style file storage API built using **Java 17 and Spring Boot**.
+
+A backend exploration of cloud storage, APIs, architecture, and file management.
 
 <br>
 
-`Java 17` &nbsp; `Spring Boot` &nbsp; `Cloud` &nbsp; `Backend`
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java%2017-3B241C?style=flat-square&logo=openjdk&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-C98F8F?style=flat-square&logo=springboot&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/Cloud-F3D9A5?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/Cloud-Based-Storage-Device">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -141,37 +256,63 @@ A full-stack educational **RPG game** built around biotechnology learning, where
 
 <td width="50%" valign="top">
 
-### 🌷 Crowd Management
+<div align="center">
 
-**CrowdGuard AI** — a multimodal crowd-safety intelligence system combining **computer vision, audio analysis, risk fusion, and real-time monitoring** to detect potential crowd violence and panic.
+🌷
+
+### crowd-management
+
+</div>
+
+**CrowdGuard AI** — a multimodal crowd-safety intelligence system combining **computer vision, audio analysis, risk fusion, and real-time monitoring**.
+
+Built around multiple signals to identify potential crowd violence and panic.
 
 <br>
 
-`TypeScript` &nbsp; `Computer Vision` &nbsp; `AI` &nbsp; `Safety`
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-C98F8F?style=flat-square&logo=typescript&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/AI-3B241C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-F3D9A5?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/crowd-management">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Instagram Performance Analytics
+<div align="center">
 
-A comprehensive Instagram performance analysis project for **Sugar Cosmetics**, examining engagement, impressions, posting behaviour, and content effectiveness through interactive analytics.
+📊
+
+### Instagram Performance Analytics
+
+</div>
+
+An interactive performance analysis of **Sugar Cosmetics' Instagram presence**, examining engagement, impressions, posting behaviour, and content effectiveness.
 
 <br>
 
-`Power BI` &nbsp; `Analytics` &nbsp; `Data Visualization`
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F3D9A5?style=flat-square&logo=powerbi&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/Analytics-C98F8F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Viz-E8D8C8?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/Instagram-Performance-Analytics-for-Sugar-Cosmetics-">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -181,37 +322,63 @@ A comprehensive Instagram performance analysis project for **Sugar Cosmetics**, 
 
 <td width="50%" valign="top">
 
-### 🌼 NavAura
+<div align="center">
 
-An **AI-powered maternal and infant nutrition companion** designed to recognize food, understand its nutritional value, and transform that information into personalized, evidence-grounded guidance.
+🎀
+
+### NavAura
+
+</div>
+
+An **AI-powered maternal and infant nutrition companion** designed to recognise food, understand nutritional value, and turn that information into personalized, evidence-grounded guidance.
 
 <br>
 
-`TypeScript` &nbsp; `AI` &nbsp; `Nutrition` &nbsp; `Healthcare`
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-C98F8F?style=flat-square&logo=typescript&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/AI-3B241C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Healthcare-F3D9A5?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/NavAura-AI-powered-maternal-and-infant-nutrition-companion">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧫 OMICS — CANCER
+<div align="center">
 
-**GeneScope AI** — an interactive transcriptomic biomarker discovery platform for comparative cancer gene-expression analysis, differential expression, pathway exploration, PCA, and clustered heatmaps.
+🧫
+
+### OMICS-CANCER
+
+</div>
+
+**GeneScope AI** — an interactive transcriptomic biomarker discovery platform for comparative cancer gene-expression analysis.
+
+Exploring differential expression, pathway analysis, PCA, clustered heatmaps, and transcriptomic patterns.
 
 <br>
 
-`Jupyter Notebook` &nbsp; `Transcriptomics` &nbsp; `Cancer` &nbsp; `Bioinformatics`
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jupyter-F8F1E7?style=flat-square&logo=jupyter&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/Transcriptomics-C98F8F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bioinformatics-F3D9A5?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/ViivianREINE/OMICS-CANCER">
-<img src="https://img.shields.io/badge/EXPLORE-3B241C?style=flat-square&logo=github&logoColor=F8F1E7"/>
+<img src="https://img.shields.io/badge/♡%20VIEW%20PROJECT-C94C4C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -222,7 +389,15 @@ An **AI-powered maternal and infant nutrition companion** designed to recognize 
 
 <div align="center">
 
-<sub>six projects · six different questions · one persistent curiosity</sub>
+🎀 ─────────────────────── 🎀
+
+<br>
+
+<sub>
+
+**six projects · six questions · one persistent curiosity**
+
+</sub>
 
 </div>
 
@@ -232,20 +407,67 @@ An **AI-powered maternal and infant nutrition companion** designed to recognize 
 
 <div align="center">
 
-## 𓂃 the intersection I keep exploring
+## 🧬 Biology × Data × Intelligence × Engineering
 
 <br>
 
-### biology × intelligence × technology
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🧬
+
+### BIOLOGY
+
+biotechnology  
+omics  
+biological systems
+
+</td>
+
+<td align="center" width="25%">
+
+🔎
+
+### DATA
+
+patterns  
+analysis  
+evidence
+
+</td>
+
+<td align="center" width="25%">
+
+🎀
+
+### INTELLIGENCE
+
+AI  
+machine learning  
+models
+
+</td>
+
+<td align="center" width="25%">
+
+💻
+
+### ENGINEERING
+
+software  
+systems  
+experiences
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-I enjoy working in spaces where disciplines overlap.
-
-**Biotechnology** gives me the scientific context.  
-**AI / ML** gives me ways to find patterns.  
-**Software engineering** gives those ideas somewhere to live.  
-**Research** gives me better questions.
+**This little intersection is where I like to build.**
 
 </div>
 
@@ -255,29 +477,18 @@ I enjoy working in spaces where disciplines overlap.
 
 <div align="center">
 
-## ✦ my toolkit
+## 🎀 My Little Toolkit
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Python-3B241C?style=flat-square&logo=python&logoColor=F8F1E7"/>
-<img src="https://img.shields.io/badge/TensorFlow-D8A7A0?style=flat-square&logo=tensorflow&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/Keras-F3D9A5?style=flat-square&logo=keras&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/OpenCV-E8D8C8?style=flat-square&logo=opencv&logoColor=3B241C"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,js,ts,react,html,css,java,spring,git,github&theme=light"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-3B241C?style=flat-square&logo=javascript&logoColor=F8F1E7"/>
-<img src="https://img.shields.io/badge/TypeScript-D8A7A0?style=flat-square&logo=typescript&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/React-F3D9A5?style=flat-square&logo=react&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/HTML5-E8D8C8?style=flat-square&logo=html5&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/CSS3-F8F1E7?style=flat-square&logo=css3&logoColor=3B241C"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-3B241C?style=flat-square&logo=openjdk&logoColor=F8F1E7"/>
-<img src="https://img.shields.io/badge/Spring_Boot-D8A7A0?style=flat-square&logo=springboot&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/Git-E8D8C8?style=flat-square&logo=git&logoColor=3B241C"/>
-<img src="https://img.shields.io/badge/GitHub-F3D9A5?style=flat-square&logo=github&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-3B241C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-C98F8F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bioinformatics-F3D9A5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-E8D8C8?style=flat-square"/>
 
 </div>
 
@@ -287,18 +498,21 @@ I enjoy working in spaces where disciplines overlap.
 
 <div align="center">
 
-## 🧬 academia
+## 🧪 academia
 
 <br>
 
-**RV College of Engineering · Bengaluru**
+### RV College of Engineering · Bengaluru
 
-`B.E. Biotechnology`  
+**B.E. Biotechnology**
+
 `2023 — 2027`
 
 <br>
 
-**Biology → Data → Intelligence → Engineering**
+🎀
+
+### biology → data → intelligence → engineering
 
 </div>
 
@@ -308,54 +522,33 @@ I enjoy working in spaces where disciplines overlap.
 
 <div align="center">
 
-## ✎ beyond the code
+## 🌷 the softer side
 
 </div>
 
 <br>
 
-There is a quieter side to all the building.
+Not everything needs to become a project.
 
-I read.  
-I write.  
-I collect observations.  
-I fall into unnecessary rabbit holes.
+Sometimes I read.
 
-I like beautiful interfaces, thoughtful conversations, playlists that become entire moods, autumn weather, literature, and projects that start as *"this could be interesting"* and somehow become something much bigger.
+Sometimes I write.
 
-I'm also involved with **Rotaract Club of RVCE** as **Joint Director – Literary Services** — a space where writing, expression, reflection, and connection meet.
+Sometimes I collect tiny observations that probably don't need collecting.
+
+I like beautiful interfaces, thoughtful conversations, playlists that become entire personalities, autumn weather, literature, quiet cafés, interesting rabbit holes, and the particular satisfaction of making something work at **2:17 AM**.
+
+I'm also part of **Rotaract Club of RVCE**, serving as **Joint Director – Literary Services**.
+
+Because words are another kind of technology.
+
+They move ideas from one person to another.
 
 <br>
-
----
 
 <div align="center">
 
-## 𓂃 how I like to build
-
-<br>
-
-`CURIOUS`
-
-↓  
-
-`QUESTION`
-
-↓  
-
-`EXPERIMENT`
-
-↓  
-
-`BUILD`
-
-↓  
-
-`REFINE`
-
-↓  
-
-`SHARE`
+🎀 &nbsp; **Code is One Language · Words Are Another** &nbsp; 🎀
 
 </div>
 
@@ -365,7 +558,44 @@ I'm also involved with **Rotaract Club of RVCE** as **Joint Director – Literar
 
 <div align="center">
 
-## ✦ find me around the internet
+## 𓂃 The Way I Like To Build
+
+<br>
+
+<img src="https://img.shields.io/badge/01%20CURIOUS-C94C4C?style=for-the-badge"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/02%20QUESTION-3B241C?style=for-the-badge"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/03%20EXPERIMENT-C98F8F?style=for-the-badge"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/04%20BUILD-F3D9A5?style=for-the-badge&labelColor=3B241C"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/05%20REFINE-E8D8C8?style=for-the-badge&labelColor=3B241C"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/06%20KEEP-F8F1E7?style=for-the-badge&labelColor=3B241C"/>
+
+<br><br>
+
+<sub>
+
+**curiosity → questions → experiments → building → refining → something worth keeping**
+
+</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🎀 Find Me Around The Internet
 
 <br>
 
@@ -374,7 +604,7 @@ I'm also involved with **Rotaract Club of RVCE** as **Joint Director – Literar
 </a>
 
 <a href="https://www.linkedin.com/in/priyam-parashar-5b0b67273/">
-<img src="https://img.shields.io/badge/LinkedIn-D8A7A0?style=for-the-badge&logo=linkedin&logoColor=3B241C"/>
+<img src="https://img.shields.io/badge/LinkedIn-C98F8F?style=for-the-badge&logo=linkedin&logoColor=3B241C"/>
 </a>
 
 <a href="https://portfolio-priyam-ten.vercel.app/">
@@ -391,7 +621,7 @@ I'm also involved with **Rotaract Club of RVCE** as **Joint Director – Literar
 
 <br><br>
 
-<sub>code · conversations · curiosity · a little bit of everything</sub>
+🎀 &nbsp; `code` · `conversations` · `curiosity` · `little obsessions` &nbsp; 🎀
 
 </div>
 
@@ -401,10 +631,22 @@ I'm also involved with **Rotaract Club of RVCE** as **Joint Director – Literar
 
 <div align="center">
 
-### 𓂃 build curious things. ask better questions. leave room for wonder.
+# 𓂃
+
+### **build curious things.**
+### **ask better questions.**
+### **leave room for wonder.**
 
 <br>
 
-`— REINE`
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
+&nbsp;&nbsp;
+**— REINE**
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/♡-C94C4C?style=flat-square"/>
+
+<br><br>
+
+<sub>made with curiosity, too many tabs, and a little bit of ✨</sub>
 
 </div>
